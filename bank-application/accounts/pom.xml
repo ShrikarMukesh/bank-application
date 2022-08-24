@@ -12,7 +12,7 @@
     <groupId>com.accounts</groupId>
     <artifactId>accounts</artifactId>
     <packaging>jar</packaging>
-    <description>spring boot account micro service application</description>
+    <description>spring boot account micro-service application</description>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>

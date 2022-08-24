@@ -1,0 +1,15 @@
+docker build . -t ctshrikar/accounts
+docker images
+docker image inspect <image-id>
+docker run -p 8080:8080 ctshrikar/accounts  ---->second port number(8080) is for which internally maintains initself
+docker stop <container-id>
+docker logs -f <container-id> --> -f means follow
+
+docker start <containerid> --> using this cmd we can start exited container
+docker conatiner pause <containerid>
+docker conatiner unpause <containerid>
+docker container inspect <containerid>
+
+docker stats
+
+docker rm <conatinerid>

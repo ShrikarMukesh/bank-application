@@ -1,0 +1,5 @@
+mvn spring-boot:build-image -->
+ --> for first time (Pulling builder image 'docker.io/paketobuildpacks/builder:base' 0% )
+      paketobuildpacks image will be pulled
+
+docker run -p 8090:8090 ctshrikar/loans
